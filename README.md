@@ -10,7 +10,7 @@ Open a second tab in Terminal.
 
 3) `npm run watch` in one tab
 
-4_ `php artisan serve` in the other
+4) `php artisan serve` in the other
 
 visit http://127.0.0.1:8000
 
